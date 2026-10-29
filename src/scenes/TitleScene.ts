@@ -28,7 +28,7 @@ export class TitleScene extends Phaser.Scene {
       this.tweens.add({ targets: l, angle: { from: -4, to: 4 }, duration: 1600 + x, yoyo: true, repeat: -1, ease: 'Sine.easeInOut' });
     }
 
-    txt(this, W / 2, 225, 'SUSHI GASSEN', 92, '#ffffff', { fontStyle: 'bold', stroke: INK, strokeThickness: 14 }).setOrigin(0.5);
+    txt(this, W / 2, 225, 'SUSHI GASSAN', 92, '#ffffff', { fontStyle: 'bold', stroke: INK, strokeThickness: 14 }).setOrigin(0.5);
     jp(this, W / 2, 312, 'すし合戦', 46, '#ffffff').setOrigin(0.5).setStroke(INK, 9);
 
     const parade = ['salmonNigiri', 'kappaMaki', 'tunaNigiri', 'tamagoNigiri', 'ebiNigiri', 'salmonNigiri'];

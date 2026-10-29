@@ -1,4 +1,4 @@
-# すし合戦 Sushi Gassen — v2 design
+# すし合戦 Sushi Gassan — v2 design
 
 Kids 10–15. Cute cartoon art (chunky dark outlines `#3a2420`, flat candy colors, little faces on food). Japanese theme.
 **Every Japanese label is paired with English, English first and larger** (e.g. "Salmon nigiri" big, "さけにぎり" small beneath/after).

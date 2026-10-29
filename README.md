@@ -1,4 +1,4 @@
-# すし合戦 Sushi Gassen
+# すし合戦 Sushi Gassan
 
 Kaiten sushi factory game (Phaser 4 + Vite + TS). Build belts and stations, send fresh sushi round the train to animal customers.
 
